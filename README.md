@@ -25,6 +25,9 @@ Documentos de texto y presentaciones:
 * **m3_teoria.pptx**: Presentación teórico práctica, soporte del video del curso
 
 
+# :open_file_folder:[scripts](https://github.com/IDSB-course/m3-rprogramming_eda/tree/master/scripts)
+Codigo empleado en la teoría:
+* teoria_ejemplos.R
 
 # :open_file_folder:[solutions](https://github.com/IDSB-course/m3-rprogramming_eda/tree/master/solutions)
 Ejercicios resueltos de la guía práctica:
